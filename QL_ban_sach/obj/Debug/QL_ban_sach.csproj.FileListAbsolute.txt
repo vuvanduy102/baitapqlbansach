@@ -1,0 +1,10 @@
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.csprojAssemblyReference.cache
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.FrmTimKiemSach.resources
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.Properties.Resources.resources
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.csproj.GenerateResource.cache
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\bin\Debug\QL_ban_sach.exe
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\bin\Debug\QL_ban_sach.pdb
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.exe
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.pdb
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.FrmTimhoadonnhap.resources
+D:\VuVanDuy\QL_ban_sach\QL_ban_sach\obj\Debug\QL_ban_sach.FormChinh.resources
